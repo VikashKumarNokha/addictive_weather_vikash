@@ -15,6 +15,15 @@
  #run npx react-native run-android to run anndroid
 <br/>
 <br/>
+
+### Home Page 
+![Screenshot from 2023-07-03 08-02-00](https://github.com/VikashKumarNokha/addictive_weather_vikash/assets/87219068/b61abe85-7853-4156-a8ca-bd05647af42f)
+
+### Forecast Page
+![Screenshot from 2023-07-03 08-02-37](https://github.com/VikashKumarNokha/addictive_weather_vikash/assets/87219068/6a628c36-c821-4551-96ee-a7b141e4f664)
+
+
+
 # Tools or Packages For Project 
 ### React (18.2.0)
 ### react-native (0.71.8)
